@@ -23,11 +23,6 @@ Usage
 Input Data: Users can enter the date range, county, square footage, number of bedrooms, heating setpoint, dry bulb temperature, relative humidity, wind speed, and global horizontal radiation.
 Predict: Click the "Predict Energy Usage" button to get the predicted energy usage.
 
-# Visualization: 
-The app will display a pie chart showing the relative contribution of each input parameter to the prediction.
-Project Link
-You can access the app here: https://rijulugawekar17.shinyapps.io/IDSFINAL/
-
 # Contributions:
 Rahul Ugawekar: Developed the app for self learning, focusing on model development and app implementation.
 # License:
